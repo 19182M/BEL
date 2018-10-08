@@ -6,7 +6,7 @@
     {"firstName":"com.hitmusicandentertainment.music.music.musicplayer","name":"Star Music Player", "lastName":"https://lh3.googleusercontent.com/O6KTj31jALAvP_GJK-1JoTbJksGCfhoyYayDghFIXywZZwTRVV_E1bMOQ5bZ8Md1mmGvJyBS59GxgZygjA=s100-rw"},
     {"firstName":"com.gwthao.idioms","name":"English Idioms", "lastName":"https://lh3.googleusercontent.com/b0L4RSnMwxd9JYYJZrMgVg89AFtfqyqxY3xmHDQ1hhD8kUkRb9oOeEBbTYYxHZJ-SyBepGTkfe83M3_lxg=s100-rw"},
     {"firstName":"com.gwthao.phrasal","name":"English Phrases", "lastName":"https://lh3.googleusercontent.com/T2Yns0vICNidNyWAFT0V8l6pK7PxF-Bkg_lz7YVihrtZuqDRuakWR6l1qlQkHFTkKWPiBKvwQqkOFM2HrQ=s100-rw"},
-    {"firstName":"com.gwthao.hdbollyvideo","name":"HD Bollywood Video Songs", "lastName":"https://lh3.googleusercontent.com/INE_FPNw4DxXw2p1u6XOLgSHOSCTZiMveitvOWDE8YBKH8TDsJ8E7lhQdX9mc5yASit38QLACJszvq5KTw=s100-rw"},
+    {"firstName":"com.gwthao.hdbollyvideo","name":"Hindi Video Songs HD", "lastName":"https://lh3.googleusercontent.com/INE_FPNw4DxXw2p1u6XOLgSHOSCTZiMveitvOWDE8YBKH8TDsJ8E7lhQdX9mc5yASit38QLACJszvq5KTw=s100-rw"},
     {"firstName":"com.hitmusicandentertainment.hdflmsandmovies","name":"HD Films | Movies", "lastName":"https://lh3.googleusercontent.com/bDpSLaQyTaJGtud3IYk2rcEjLd-MA0_w6ye27L12lCSWXCdEDDQcZp7eLELtbQzLHA_vC6wl6lSQhwsH=s100"},
     {"firstName":"com.hitmusicandentertainment.mp3musicplayer","name":"Mp3 Music Player", "lastName":"https://lh3.googleusercontent.com/ovInnn7RnNKxLVlPaV-edycoTBYWqxOA3onKnuXjUkWysUuzuF4VEPC2eoZucnnTGawGqp9TPIFDcz_W=s100"},
     {"firstName":"com.hitmusicandentertainment.southmoviesdubbed","name":"South Indian Hindi Dubbed Movies", "lastName":"https://lh3.googleusercontent.com/vx4H9vcfzzgLeDZOP-2J714t_4CkIRuwomin7fZYJejho7Drr2obZqB_N8fu4AunPmxqiR2_NonNfQy8zw=s100-rw"},
@@ -19,5 +19,8 @@
     {"firstName":"com.hitmusicandentertainment.banglavidflm","name":"Bangla Videos & Films", "lastName":"https://lh3.googleusercontent.com/HnBGVFY17a4NbtFjAW0kcGg_92_wjCLBiVuCIhPDBKewmfEsDWgY8VjGw7GFzJxTd-xrhK5lPxK9yVNe=s100"},
     {"firstName":"com.hitmusicandentertainment.mising","name":"Mising Videos & Films", "lastName":"https://lh3.googleusercontent.com/h3786g0KklSxWxiITeND34R-hy_XYfi9ymMf5Q7p_vC5hnkNmQOdVEuMqy9OgMYabHyT7l1MQVOmBx1Z=s100"},
     {"firstName":"com.hitmusicandentertainment.karbi","name":"Karbi Videos & Films", "lastName":"https://lh3.googleusercontent.com/rwQBQVGGJ9OcrikVsJfM0TMt0sqUKSL55gNIietVUe_p9zFax1nPiLfCVBjJTvSiQqpGTmZCzQR8vhku=s100"},
+{"firstName":"com.hitmusicandentertainment.teluguvidflm","name":"Telugu Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/4huZMiOPbO61vy8EAiIdimWUstnxZ8hRU9WaH3y7Et9oaKhUkoYF_I4xDZr5ucrTTusO1ypZWgXB5YAgUQ=s100-rw"},
+{"firstName":"com.hitmusicandentertainment.tamilvidflm","name":"Tamil Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/1VDzNrON_vhkIKzuiqhXYk-xFy-nvS3sr043fkk9cVEhWoHPIqwMZBRoaer5wI47oA-967Atgi_pjE7GoA=s100-rw"},
+{"firstName":"com.hitmusicandentertainment.nagamesevidflm","name":"Nagamese Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/sYxoNTre1jlD62R2J2feLXIQAPt4TajVveEy-cqvA_BNSRh6qdATSGnR0a584T--z7YY-iDI0L6GBkZl9g=s100-rw"},
     {"firstName":"com.hitmusicandentertainment.nepalivid","name":"Nepali Videos Songs", "lastName":"https://lh3.googleusercontent.com/3nxGiwsfN5quwQD5jxL1iW7HVgtC0fFQxUSAi3OlE56nKpV8T8ztKK9CzdWPe1eJH-agEzzfrYzzEN6l=s100"}
 ]
