@@ -1,24 +1,10 @@
 
 [
     {"firstName":"com.gwthao.music.music.wow","name":"Wow! Music Player", "lastName":"https://lh3.googleusercontent.com/FPjGpOmqZv4RuBudtjrFoEyt2AebgttyX54zc7XbgQxANMBhbFhBr1ADQXa_PIc31wwhN_Ubj-pcfOlCoA=s100-rw"},
-{"firstName":"com.gwthao.assamresults","name":"Assam Results", "lastName":"https://lh3.googleusercontent.com/GI2tqZcz5t776EWd6WBc-3gFGW1TC3hfeczH_UQHTj2ef9wCXPXxvxPx7xHY22rZlbOXAP7NLom-Sr6MOg=s100-rw"},
-    {"firstName":"com.hitmusicandentertainment.music.music.musicplayer","name":"Star Music Player", "lastName":"https://lh3.googleusercontent.com/O6KTj31jALAvP_GJK-1JoTbJksGCfhoyYayDghFIXywZZwTRVV_E1bMOQ5bZ8Md1mmGvJyBS59GxgZygjA=s100-rw"},
-    {"firstName":"com.gwthao.studentenglishdictionary","name":"English Dictionary", "lastName":"https://lh3.googleusercontent.com/x7_hMFwPt9YIrV3a5ry8uosrqkrpTwZJpKOAhllioE92OWbOTHYtTwjLH9POniUXB8l6zYpIAEr2mE7Gew=s100-rw"},
-{"firstName":"com.gwthao.hdmoviesnfilms","name":"HD Movies & Films [Eng, Hindi, Dub, Desi, Videos]", "https://lh3.googleusercontent.com/wCMoVklgLwkpU_mAwk4MLQbHCYEK4Pb6g_kiPfOk0UJJTLuqvPeXolgkiVxxDGEQbcYvN-4O8iJRvcZfjA=s100-rw"},
-    {"firstName":"com.gwthao.slang","name":"Wow! English Slangs", "lastName":"https://lh3.googleusercontent.com/jkIFT7XC1pKbGAHWOC021hXhuHcPLKZ4YcCM1P4fPRMXaleZJZCVIncyPu_UyhRBekSzLnz7urH6cWtxsQ=s100-rw"},
+{"firstName":"com.gwthao.studentenglishdictionary","name":"English Dictionary", "lastName":"https://lh3.googleusercontent.com/x7_hMFwPt9YIrV3a5ry8uosrqkrpTwZJpKOAhllioE92OWbOTHYtTwjLH9POniUXB8l6zYpIAEr2mE7Gew=s100-rw"},
+{"firstName":"com.gwthao.slang","name":"Wow! English Slangs", "lastName":"https://lh3.googleusercontent.com/jkIFT7XC1pKbGAHWOC021hXhuHcPLKZ4YcCM1P4fPRMXaleZJZCVIncyPu_UyhRBekSzLnz7urH6cWtxsQ=s100-rw"},
     {"firstName":"com.gwthao.proverbs","name":"English Proverbs", "lastName":"https://lh3.googleusercontent.com/HNWgynbokOZKyRLQFFfhMG4BTPEcbfrx30NCKOYradn5GtMAhbRvYrluah-jJ3SOFNcZf5OnHXvk2QDtBg=s100-rw"},
     {"firstName":"com.gwthao.idioms","name":"English Idioms", "lastName":"https://lh3.googleusercontent.com/b0L4RSnMwxd9JYYJZrMgVg89AFtfqyqxY3xmHDQ1hhD8kUkRb9oOeEBbTYYxHZJ-SyBepGTkfe83M3_lxg=s100-rw"},
     {"firstName":"com.gwthao.phrasal","name":"English Phrases", "lastName":"https://lh3.googleusercontent.com/T2Yns0vICNidNyWAFT0V8l6pK7PxF-Bkg_lz7YVihrtZuqDRuakWR6l1qlQkHFTkKWPiBKvwQqkOFM2HrQ=s100-rw"},
-    {"firstName":"com.hitmusicandentertainment.mp3musicplayer","name":"Mp3 Music Player", "lastName":"https://lh3.googleusercontent.com/ovInnn7RnNKxLVlPaV-edycoTBYWqxOA3onKnuXjUkWysUuzuF4VEPC2eoZucnnTGawGqp9TPIFDcz_W=s100"},
-    {"firstName":"com.hitmusicandentertainment.southmoviesdubbed","name":"South Indian Hindi Dubbed Movies", "lastName":"https://lh3.googleusercontent.com/vx4H9vcfzzgLeDZOP-2J714t_4CkIRuwomin7fZYJejho7Drr2obZqB_N8fu4AunPmxqiR2_NonNfQy8zw=s100-rw"},
-    {"firstName":"com.gwthao.hiiimusicplayer","name":"Music Player", "lastName":"https://lh3.googleusercontent.com/_8kD8IGcsBGPcbk-y-6UaQZa07bAKuH-QYeqFLjX8NZwgDUi9w5CFG45y3IMJ_kQf7m4q3rXIO6uPo_5=s100"},
-     {"firstName":"com.hitmusicandentertainment.nepalividflm","name":"Nepali Videos & Films", "lastName":"https://lh3.googleusercontent.com/VUS31SMMxLU3sfRjOi77mNqQieNmdWQD9UwbVJjiZ5GyDPmwBDhx5pY-ifyHlgW1163YaqS1V2T8Z2VI=s100"},
-    {"firstName":"com.hitmusicandentertainment.assamese", "name":"Assamese Videos & Films","lastName":"https://lh3.googleusercontent.com/pB6W5Y8dd6JLTMjdpNH2H7dO-1iRrZijcVsUj9jfce22jhF_ZLPfB5sYem40e_1YJnFozSJeiBVtBlha=s100"},
-    {"firstName":"com.hitmusicandentertainment.bodo","name":"Bodo Videos & Films", "lastName":"https://lh3.googleusercontent.com/uW0uGcF7--hi4mHtyJtqcb0GvRqC2H3jlO5-JAxvIOwUxQNmrkL_YAA6fGjF8jy21qmLh-e9qhLuNewl=s100"},
-    {"firstName":"com.hitmusicandentertainment.manipurividflm","name":"Manipuri Videos & Films", "lastName":"https://lh3.googleusercontent.com/fxyhBKmtXzi3jMlDKO-dCOBC3zwxfv5AByDuoY-tdDHqgrscShmDV22BPzJjnzLf1_ICfwbXOp39fMiE=s100"},
-    {"firstName":"com.hitmusicandentertainment.banglavidflm","name":"Bangla Videos & Films", "lastName":"https://lh3.googleusercontent.com/HnBGVFY17a4NbtFjAW0kcGg_92_wjCLBiVuCIhPDBKewmfEsDWgY8VjGw7GFzJxTd-xrhK5lPxK9yVNe=s100"},
-    {"firstName":"com.hitmusicandentertainment.mising","name":"Mising Videos & Films", "lastName":"https://lh3.googleusercontent.com/h3786g0KklSxWxiITeND34R-hy_XYfi9ymMf5Q7p_vC5hnkNmQOdVEuMqy9OgMYabHyT7l1MQVOmBx1Z=s100"},
-    {"firstName":"com.hitmusicandentertainment.karbi","name":"Karbi Videos & Films", "lastName":"https://lh3.googleusercontent.com/rwQBQVGGJ9OcrikVsJfM0TMt0sqUKSL55gNIietVUe_p9zFax1nPiLfCVBjJTvSiQqpGTmZCzQR8vhku=s100"},
-{"firstName":"com.hitmusicandentertainment.nagamesevidflm","name":"Nagamese Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/sYxoNTre1jlD62R2J2feLXIQAPt4TajVveEy-cqvA_BNSRh6qdATSGnR0a584T--z7YY-iDI0L6GBkZl9g=s100-rw"},
-    {"firstName":"com.hitmusicandentertainment.nepalivid","name":"Nepali Videos Songs", "lastName":"https://lh3.googleusercontent.com/3nxGiwsfN5quwQD5jxL1iW7HVgtC0fFQxUSAi3OlE56nKpV8T8ztKK9CzdWPe1eJH-agEzzfrYzzEN6l=s100"}
-]
+  {"firstName":"com.gwthao.assamresults","name":"Assam Results", "lastName":"https://lh3.googleusercontent.com/GI2tqZcz5t776EWd6WBc-3gFGW1TC3hfeczH_UQHTj2ef9wCXPXxvxPx7xHY22rZlbOXAP7NLom-Sr6MOg=s100-rw"} 
+  ]
